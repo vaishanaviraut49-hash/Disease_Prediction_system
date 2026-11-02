@@ -1,0 +1,14 @@
+fever,cough,headache,fatigue,vomiting,diarrhea,body_pain,sore_throat,breathing_difficulty,disease
+1,1,1,1,0,0,1,1,0,Flu
+1,1,0,1,0,0,1,1,0,Flu
+1,1,1,0,0,0,1,1,0,Flu
+0,1,1,1,0,0,0,1,0,Common Cold
+0,1,1,0,0,0,0,1,0,Common Cold
+0,1,0,1,0,0,0,1,0,Common Cold
+1,0,1,1,1,0,1,0,0,Malaria
+1,0,1,1,1,0,1,0,0,Malaria
+1,0,0,1,1,0,1,0,0,Malaria
+0,0,0,1,1,1,0,0,0,Stomach Infection
+0,0,0,1,1,1,0,0,0,Stomach Infection
+0,0,0,0,1,1,0,0,0,Stomach Infection
+

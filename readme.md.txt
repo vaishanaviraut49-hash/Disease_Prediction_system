@@ -1,0 +1,28 @@
+# Disease Prediction System
+
+## About
+A Python-based Disease Prediction System
+that predicts possible diseases based on
+patient symptoms using Machine Learning.
+
+## Technologies Used
+- Python
+- Tkinter
+- MySQL
+- Machine Learning
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Features
+- Patient Registration
+- Disease Prediction
+- Patient History
+- Reports and Analytics
+- Graphical Visualization
+
+## Machine Learning
+Decision Tree Classification
+
+## Developer
+Vaishnavi Raut
