@@ -104,3 +104,17 @@ GitHub: https://github.com/vaishanaviraut49-hash
 ---
 
 **Note:** This is an educational project and its predictions are not a substitute for professional medical diagnosis.
+
+## Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Disease Prediction
+![Prediction](screenshots/prediction.png)
+
+### Patient History
+![History](screenshots/history.png)
+
+### Analytics and Report
+![Report](screenshots/report.png)
